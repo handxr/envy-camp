@@ -1,4 +1,4 @@
-# Prueba Técnica: Aplicación de Lista de Tareas en React
+# Prueba Técnica: Aplicación de Lista de Tareas en React (Básica)
 
 ## Funcionalidades Básicas
 
