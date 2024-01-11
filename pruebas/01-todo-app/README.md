@@ -58,3 +58,6 @@ Básico
 
 ### Estilos
 - Uso de CSS Vanilla.
+
+### Wireframe
+![image](https://github.com/handxr/envy-academy/assets/88827764/1802bdac-e5ec-413e-a93f-9e37bbc00791)
