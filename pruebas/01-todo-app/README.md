@@ -8,7 +8,7 @@ Esta es una prueba técnica básica diseñada para evaluar las habilidades de un
 
 Básico
 
-## Funcionalidades Básicas
+## Funcionalidades
 
 ### Visualizar Tareas
 - Mostrar una lista de tareas.
