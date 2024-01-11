@@ -35,6 +35,7 @@ Básico
 ### Validaciones
 - No permitir al usuario crear un todo sin el título.
 - Manejar errores.
+- No mostrar el botón para limpiar completados si no se cumple la condición.
 
 ### Estilos y Responsividad
 - Diseño básico
