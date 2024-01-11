@@ -13,6 +13,7 @@ Básico
 ### Visualizar Tareas
 - Mostrar una lista de tareas.
 - Cada tarea debe tener un título y, opcionalmente, una descripción.
+- Mostrar un placeholder en el caso de que no haya ninguna tarea.
 
 ### Agregar Nuevas Tareas
 - Un formulario para ingresar el título y la descripción de la nueva tarea.
@@ -30,6 +31,10 @@ Básico
 
 ### Persistencia de Datos
 - Guardar las tareas en el local storage.
+
+### Validaciones
+- No permitir al usuario crear un todo sin el título.
+- Manejar errores.
 
 ### Estilos y Responsividad
 - Diseño básico
