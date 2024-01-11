@@ -33,6 +33,9 @@
 
 ## Estructura Técnica
 
+### Lenguaje
+- TypeScript
+
 ### Componentes
 - Un componente para el formulario de añadir tareas.
 - Un componente para mostrar cada tarea.
