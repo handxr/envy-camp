@@ -57,7 +57,7 @@ Básico
 - Funciones para manejar la adición, eliminación, y marcado de tareas como completadas.
 
 ### Estilos
-- Uso de CSS Vanilla.
+- Uso de CSS Vanilla o Modules.
 
 ### Wireframe
 ![image](https://github.com/handxr/envy-academy/assets/88827764/e3aeb3d5-3279-4f2b-82eb-b58c9569cc5a)
