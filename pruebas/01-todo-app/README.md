@@ -60,4 +60,5 @@ Básico
 - Uso de CSS Vanilla.
 
 ### Wireframe
-![image](https://github.com/handxr/envy-academy/assets/88827764/1802bdac-e5ec-413e-a93f-9e37bbc00791)
+![image](https://github.com/handxr/envy-academy/assets/88827764/e3aeb3d5-3279-4f2b-82eb-b58c9569cc5a)
+
