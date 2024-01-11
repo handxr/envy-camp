@@ -1,5 +1,13 @@
 # Prueba Técnica: Aplicación de Lista de Tareas en React (Básica)
 
+## Descripción
+
+Esta es una prueba técnica básica diseñada para evaluar las habilidades de un desarrollador en React y TypeScript. El objetivo es crear una aplicación de lista de tareas con funcionalidades básicas como visualizar, agregar, marcar como completadas y eliminar tareas.
+
+## Nivel de Dificultad
+
+Básico
+
 ## Funcionalidades Básicas
 
 ### Visualizar Tareas
