@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Bienvenido al repositorio de pruebas técnicas de Envy. Este es un espacio dedicado a ofrecer una amplia gama de desafíos de programación y problemas técnicos para desarrolladores de todos los niveles, con un enfoque especial en el desarrollo con React. Nuestro objetivo es proporcionar una herramienta integral para la mejora y evaluación de habilidades en ingeniería de software, especialmente en lo que respecta a React.
+Bienvenido al repositorio de pruebas técnicas de Envy. Este es un espacio hecho por y para amigos dedicado a ofrecer una amplia gama de desafíos de programación y problemas técnicos para desarrolladores de todos los niveles, con un enfoque especial en el desarrollo con React. Nuestro objetivo es proporcionar una herramienta integral para la mejora y evaluación de habilidades en ingeniería de software, especialmente en lo que respecta a React.
 
 ## Contenido
 
