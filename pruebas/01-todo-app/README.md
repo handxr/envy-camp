@@ -25,13 +25,8 @@ Básico
 ### Eliminar Tareas
 - Botón para eliminar tareas individuales de la lista.
 
-## Funcionalidades Avanzadas (Opcionales)
-
-### Edición de Tareas
-- Posibilidad de editar el título y la descripción de las tareas existentes.
-
-### Filtrado de Tareas
-- Opciones para filtrar las tareas (todas, activas, completadas).
+### Eliminar tareas completadas
+- Función para eliminar de la lista y el storage las tareas completadas.
 
 ### Persistencia de Datos
 - Guardar las tareas en el local storage.
