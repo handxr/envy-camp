@@ -42,9 +42,6 @@ Básico
 
 ## Estructura Técnica
 
-### Lenguaje
-- TypeScript
-
 ### Componentes
 - Un componente para el formulario de añadir tareas.
 - Un componente para mostrar cada tarea.
@@ -61,5 +58,5 @@ Básico
 - Uso de CSS Vanilla o Modules.
 
 ### Wireframe
-![image](https://github.com/handxr/envy-academy/assets/88827764/e3aeb3d5-3279-4f2b-82eb-b58c9569cc5a)
+![wireframe](https://github.com/handxr/envy-academy/assets/88827764/e3aeb3d5-3279-4f2b-82eb-b58c9569cc5a)
 

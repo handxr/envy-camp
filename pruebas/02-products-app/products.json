@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 15",
+    "category": "Electronics",
+    "price": 1200.0,
+    "available": true,
+    "releaseDate": "2023-04-23"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone XL",
+    "category": "Electronics",
+    "price": 750.0,
+    "available": false,
+    "releaseDate": "2023-10-15"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Maker Deluxe",
+    "category": "Home Appliances",
+    "price": 150.0,
+    "available": true,
+    "releaseDate": "2023-07-30"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Headphones",
+    "category": "Accessories",
+    "price": 200.0,
+    "available": true,
+    "releaseDate": "2023-01-05"
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Keyboard",
+    "category": "Accessories",
+    "price": 95.0,
+    "available": false,
+    "releaseDate": "2023-12-11"
+  }
+]
