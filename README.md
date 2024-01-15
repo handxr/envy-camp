@@ -4,6 +4,14 @@
 
 Bienvenido al repositorio de pruebas técnicas de Envy. Este es un espacio hecho por y para amigos dedicado a ofrecer una amplia gama de desafíos de programación y problemas técnicos para desarrolladores de todos los niveles, con un enfoque especial en el desarrollo con React. Nuestro objetivo es proporcionar una herramienta integral para la mejora y evaluación de habilidades en ingeniería de software, especialmente en lo que respecta a React.
 
+## Requisitos
+
+- Conocimientos básicos de React.
+- Conocimientos básicos de Git.
+- Conocimientos básicos de JavaScript.
+- Conocimientos básicos de HTML y CSS.
+- Preferiblemente, conocimientos básicos de TypeScript.
+
 ## Contenido
 
 En este repositorio encontrarás:
@@ -13,6 +21,7 @@ En este repositorio encontrarás:
 - **Desafíos Avanzados:** Problemas complejos para desarrolladores experimentados.
 - **Pruebas de Concepto:** Implementaciones prácticas de ciertas tecnologías o soluciones a problemas específicos.
 - **Documentación:** Explicaciones detalladas y contextos de los problemas.
+
 
 ## Uso
 
