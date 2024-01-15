@@ -21,18 +21,24 @@ Básico
 
 ### Filtrado de Productos:
 
-- Un botón para filtrar los productos por disponibilidad.
+- Un select para filtrar productos por disponibilidad (disponible o no disponible).
 
 ### Ordenamiento de Productos:
 
-- Un botón para ordenar los productos por nombre o precio (ascendente).
+- Un select para ordenar los productos por nombre o precio (ascendente).
 
 
 ## Estructura Técnica
 
+### Configuración Inicial:
+
+- Crear una aplicación de React utilizando [Vite](https://vitejs.dev/).
+
+
 ### Estilos
 
 - Uso de CSS Vanilla / Modules o Tailwind CSS.
+
 
 ### Wireframe
 
