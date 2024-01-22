@@ -24,6 +24,15 @@ Básico / Intermedio
 - [React](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
 
+## Requisitos del Código
+
+Es obligatorio el uso de las siguientes herramientas para asegurar la calidad y consistencia del código:
+
+- **ESLint:** Para garantizar un estilo de codificación consistente y evitar errores comunes. Debe configurarse siguiendo las mejores prácticas estándar de la comunidad de React.
+- **Prettier:** Para formatear automáticamente el código. Se espera que todos los archivos del proyecto estén formateados utilizando Prettier.
+
+Estas herramientas ayudan a mantener un alto estándar de calidad en el código y son esenciales para el trabajo en equipo y la escalabilidad del proyecto.
+
 ## Integración con la API REST
 
 Esta aplicación consume datos de una API REST para obtener las publicaciones y comentarios. La API utilizada es `jsonplaceholder` y puede ser encontrada [aquí](https://jsonplaceholder.typicode.com/).
