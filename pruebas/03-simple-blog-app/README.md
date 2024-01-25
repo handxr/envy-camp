@@ -38,3 +38,7 @@ Estas herramientas ayudan a mantener un alto estándar de calidad en el código 
 Esta aplicación consume datos de una API REST para obtener las publicaciones y comentarios. La API utilizada es `jsonplaceholder` y puede ser encontrada [aquí](https://jsonplaceholder.typicode.com/).
 
 Nota: Asegúrate de revisar la documentación de la API para entender completamente cómo interactuar con ella.
+
+## Wireframe
+
+![Wireframe](image.png)
