@@ -17,7 +17,8 @@ Básico / Intermedio
 1. **Crear Componente de Lista de Publicaciones:** Como ingeniero, necesito diseñar un componente que muestre todas las publicaciones disponibles.
 2. **Implementar Navegación:** Como ingeniero, debo implementar la navegación entre la lista de publicaciones y su detalle utilizando React Router.
 3. **Gestionar Comentarios:** Como ingeniero, necesito implementar una forma para que los usuarios puedan agregar y visualizar comentarios en cada publicación.
-4. **Aplicar Estilos:** Como ingeniero, debo aplicar estilos CSS para mejorar la experiencia del usuario. Se permite el uso de cualquier librería de estilos o framework CSS según la preferencia del desarrollador.
+4. **Custom Hooks:** Como ingeniero, debo utilizar custom hooks para encapsular la lógica de negocio y mantener los componentes lo más simples posible.
+5. **Aplicar Estilos:** Como ingeniero, debo aplicar estilos CSS para mejorar la experiencia del usuario. Se permite el uso de cualquier librería de estilos o framework CSS según la preferencia del desarrollador.
 
 ## Stack Tecnológico
 
