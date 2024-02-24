@@ -54,3 +54,7 @@ Estas herramientas ayudan a mantener un alto estándar de calidad en el código 
 Esta aplicación consume datos de una API REST para obtener los animes. La API utilizada es `jikan` y puede ser encontrada [aquí](https://docs.api.jikan.moe/).
 
 Nota: Asegúrate de revisar la documentación de la API para entender completamente cómo interactuar con ella.
+
+## Recomendaciones
+
+- **Metodología BEM:** Se recomienda utilizar la metodología BEM para nombrar las clases CSS y mantener un estilo de codificación consistente. Puedes encontrar más información sobre BEM [aquí](http://getbem.com/naming/).
